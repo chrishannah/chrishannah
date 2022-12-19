@@ -8,4 +8,4 @@
 
 📝 When I'm not writing code, I'm usually writing [on my blog](https://chrishannah.me). It tends to be focussed on technology, but is now becoming more personal.
 
-📫 If you want to reach me, I'd suggest either [Twitter](https://twitter.com/chrishannah) or [Email](mailto:me@chrishannah.me).
+📫 If you want to reach me, I'd suggest either <a rel="me" href="https://bulbasaur.garden/@chris">Mastodon</a> or [Email](mailto:me@chrishannah.me).
