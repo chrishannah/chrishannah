@@ -10,3 +10,4 @@ Want to contact me? try:
 - <a rel="me" href="https://fosstodon.org/@chrishannah">Mastodon</a>
 [Email](mailto:me@chrishannah.me)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=chrishannah&show_icons=true&theme=tokyonight)
