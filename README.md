@@ -1,5 +1,3 @@
-![me](https://chrishannah.me/images/chris.jpeg)
-
 I am a:
 - Senior Software Engineer at Ant Group/WorldFirst working on all sorts of REST APIs, ERP integrations, internal tools, and a load more. (Mostly Java, but also recently Python and JavaScript).
 - iOS/macOS developer. My current apps are [Text Shot](https://chrishannah.me/text-shot/) and [Text Case](https://textcase.app/).
