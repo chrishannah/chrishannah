@@ -8,6 +8,6 @@ I am a:
 Want to contact me? try:
 - <a rel="me" href="https://twitter.com/chrishannah">Twitter</a>
 - <a rel="me" href="https://fosstodon.org/@chrishannah">Mastodon</a>
-[Email](mailto:me@chrishannah.me)
+- <a href="mailto:me@chrishannah.me">Email</a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=chrishannah&show_icons=true&theme=tokyonight)
