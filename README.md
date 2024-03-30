@@ -3,7 +3,7 @@ I am a:
 - iOS/macOS developer. My current apps are [Text Shot](https://chrishannah.me/text-shot/) and [Text Case](https://textcase.app/).
 - contributer to free, open-source software. My most recent project is to take the core text transformation tools of my Text Case app and make them available in the command line - [Text Case CLI](https://github.com/chrishannah/textcase-cli).
 - Writer/blogger at [chrishannah.me](https://chrishannah.me).
-- all-round programmer that literally tries all sorts of languages/frameworks and tries to learn as much as possible.
+- Learning Rust with [pst](https://github.com/chrishannah/pst).
 
 Want to contact me? try:
 - <a rel="me" href="https://twitter.com/chrishannah">Twitter</a>
