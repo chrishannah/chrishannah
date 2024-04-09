@@ -5,7 +5,7 @@ I am a:
 - Writer/blogger at [chrishannah.me](https://chrishannah.me).
 - Learning Rust with [pst](https://github.com/chrishannah/pst).
 
-I'm also currently open for new roles. If you're interested, [check out my online cv](https://chrishannah/cv).
+I'm also currently open for new roles. If you're interested, [check out my online cv](https://chrishannah.me/cv).
 
 Want to contact me? try:
 - <a rel="me" href="https://twitter.com/chrishannah">Twitter</a>
