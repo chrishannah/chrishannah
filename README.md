@@ -9,6 +9,7 @@ I'm also currently open for new roles. If you're interested, [check out my onlin
 ## 🚀 Current Projects
 
 ### Active Development
+- **[Minibrain](https://github.com/chrishannah/minibrain)** - A mini, personality‑driven coding agent with a TUI
 - **[Miniroll](https://github.com/chrishannah/miniroll)** - Blogroll management tool with RSS aggregation
 - **[Text Case](https://textcase.app)** - Text transformation iOS/macOS app
   - [Text Case CLI](https://github.com/chrishannah/textcase-cli) - Command line version
