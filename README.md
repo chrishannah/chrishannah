@@ -9,15 +9,15 @@ I'm also currently open for new roles. If you're interested, [check out my onlin
 ## 🚀 Current Projects
 
 ### Active Development
-- **[Minibrain](https://github.com/chrishannah/minibrain)** - A mini, personality‑driven coding agent with a TUI
-- **[Miniroll](https://github.com/chrishannah/miniroll)** - Blogroll management tool with RSS aggregation
+- **Minibase** - Shared framework for Miniship & Miniroll SaaS applications
+- **Miniroll** - Blogroll management tool with RSS aggregation
+- **Miniship** - In development
 - **[Text Case](https://textcase.app)** - Text transformation iOS/macOS app
   - [Text Case CLI](https://github.com/chrishannah/textcase-cli) - Command line version
   - [Text Case Web](https://github.com/chrishannah/Text-Case-Web) - Web version
   - [textcase.app](https://github.com/chrishannah/textcase-website) - Marketing website
   - [Landing Page](https://github.com/chrishannah/text-case-landing)
-- **[Text Shot](https://github.com/chrishannah/text-shot)** - Screenshot text extraction
-- **[Miniship](https://github.com/chrishannah/miniship)** - In development
+- **Text Shot** - Screenshot text extraction
 - **[Pokeguessr](https://github.com/chrishannah/pokeguessr)** - CLI game to guess all 151 Pokémon
 
 ### Open Source Tools
