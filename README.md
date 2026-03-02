@@ -12,7 +12,7 @@ I'm also currently open for new roles. If you're interested, [check out my onlin
 - **Minibase** - Shared framework for Miniship & Miniroll SaaS applications
 - **Miniroll** - Blogroll management tool with RSS aggregation
 - **Miniship** - In development
-- **[Text Case](https://textcase.app)** - Text transformation iOS/macOS app
+- **[Text Case](https://textcase.app)** - Main Text Case project
   - [Text Case CLI](https://github.com/chrishannah/textcase-cli) - Command line version
   - [Text Case Web](https://github.com/chrishannah/Text-Case-Web) - Web version
   - [textcase.app](https://github.com/chrishannah/textcase-website) - Marketing website
